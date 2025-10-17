@@ -1,0 +1,23 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Sample Product",
+    "description": "A starter product",
+    "price": 19.99,
+    "stock": 100
+  },
+  {
+    "id": "e07d0508-9fb4-42e6-ad24-b64bc7c933fa",
+    "name": "Ghee",
+    "description": "",
+    "price": 50,
+    "stock": 10
+  },
+  {
+    "id": "b8b3d2b7-7a5a-4257-aa2b-844493dca739",
+    "name": "Paste",
+    "description": "for teeth",
+    "price": 30,
+    "stock": 10
+  }
+]
